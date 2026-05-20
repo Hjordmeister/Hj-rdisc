@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="120" fill="#061014"/>
+  <circle cx="256" cy="256" r="178" fill="url(#discGlow)" opacity="0.95"/>
+  <circle cx="256" cy="256" r="126" fill="#0B1A22" stroke="#39F5E6" stroke-width="10"/>
+  <path d="M117 268C154 189 237 145 326 162C385 173 430 209 456 258C403 239 348 234 292 243C231 253 172 282 117 268Z" fill="#39F5E6"/>
+  <path d="M87 293C159 312 230 287 302 274C354 264 404 267 464 292C430 351 363 390 286 390C191 390 111 348 87 293Z" fill="#4AA8FF"/>
+  <path d="M159 194C196 151 263 132 326 160C279 159 237 169 201 192C180 205 164 222 151 241C144 227 146 210 159 194Z" fill="#FF4FB8"/>
+  <circle cx="256" cy="256" r="36" fill="#061014" stroke="#F4FBFF" stroke-width="8"/>
+  <path d="M256 118V394" stroke="#F4FBFF" stroke-width="8" stroke-linecap="round" opacity="0.22"/>
+  <path d="M118 256H394" stroke="#F4FBFF" stroke-width="8" stroke-linecap="round" opacity="0.22"/>
+  <path d="M190 350C221 370 290 378 336 342" stroke="#FF4FB8" stroke-width="12" stroke-linecap="round"/>
+  <defs>
+    <radialGradient id="discGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(216 174) rotate(55) scale(266)">
+      <stop stop-color="#39F5E6"/>
+      <stop offset="0.46" stop-color="#4AA8FF"/>
+      <stop offset="1" stop-color="#FF4FB8"/>
+    </radialGradient>
+  </defs>
+</svg>
